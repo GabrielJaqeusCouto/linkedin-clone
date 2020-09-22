@@ -45,19 +45,21 @@
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/GabrielJaqeusCouto/linkedin-clone
 ```
 
 Acesse a pasta clonada:
 
 ```
-cd 
+cd linkedin-clone
 ```
 
+Instale as dependências do projeto:
 ```
 npm install
 ```
 
+Rode o projeto:
 ```
 npm start
 ```
